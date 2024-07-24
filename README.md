@@ -1,4 +1,5 @@
 Reposiory Overview:
+
 Welcome to my Account Sales Analysis project repository! This project was completed as part of the JPMorgan Chase & Co. Job Simulation Program. The objective of this analysis was to provide a comprehensive overview of account sales data over a five-year period (2017-2021). The project utilized Microsoft Excel for data analysis and visualization, resulting in a dynamic and insightful dashboard.
 Project Files
 •	Account_Sales_Report.xlsx: The main Excel file containing the data, pivot tables, and dashboard.
